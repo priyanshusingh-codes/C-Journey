@@ -14,6 +14,13 @@ int main () // main function where the program execution starts
     inrate = 0.11; // set the interest rate to 11%
     year = 0; // initialize year to 0 to start the loop from the first year
 
+
+
+
+
+
+    
+
     while  (year<= PERIOD) // loop to calculate interest for each year until the specified period
     {
         printf("%2d %8.2f\n", year, amount); // print the current year and the amount with 2 decimal places
