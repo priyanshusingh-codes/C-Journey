@@ -27,3 +27,20 @@ int a = 1, b = 2;
 ✅ This IS comma operator:
 x = (a = 1, b = 2);
 */
+
+
+
+/*
+The size type is an unsigned integer type that is used to represent the size of objects in bytes. It is defined in the <stddef.h> header file and is commonly used for array indexing and loop counting.
+
+example:
+#include <stdio.h>
+#include <stddef.h>
+int main() {
+    size_t size = sizeof(int);
+    printf("Size of int: %zu bytes\n", size);
+    return 0;
+}
+
+//Used to determine the size of arrays and other data structures, ensuring safe memory access and preventing buffer overflows.
+*/
