@@ -1,10 +1,11 @@
 #include <stdio.h>
 
-int main() {
-    int marks;
+int main() 
+{
+    float marks;
 
     printf("Enter marks (0-100): ");
-    scanf("%d", &marks);
+    scanf("%f", &marks);
 
     if (marks >= 90 && marks <= 100) {
         printf("Grade: O");
