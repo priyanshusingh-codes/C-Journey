@@ -1,6 +1,6 @@
 //Cosine Function
 #include <stdio.h>
-#include <math.h>
+#include <math.h>//header file to use maths function
 
 #define PI 3.1416// define the value of PI as a constant
 #define MAX 180 // define the maximum angle in degrees for which cosine will be calculated
