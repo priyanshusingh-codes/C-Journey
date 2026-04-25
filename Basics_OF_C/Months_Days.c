@@ -1,7 +1,8 @@
 //To change days in months and days
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int days, months, remaining_days;
 
     printf("Enter number of days: ");
