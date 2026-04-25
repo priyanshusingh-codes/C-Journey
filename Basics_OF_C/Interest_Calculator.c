@@ -21,7 +21,7 @@ int main () // main function where the program execution starts
 
     
 
-    while  (year<= PERIOD) // loop to calculate interest for each year until the specified period
+    while  (year < PERIOD) // loop to calculate interest for each year until the specified period
     {
         printf("%2d %8.2f\n", year, amount); // print the current year and the amount with 2 decimal places
         value = amount + (amount * inrate); // calculate the new amount by adding the interest to the current amount
@@ -29,5 +29,5 @@ int main () // main function where the program execution starts
         year = year + 1; // increment the year to move to the next year in the loop
     }
 // The loop will run until the year exceeds the specified period, calculating and printing the amount for each year based on the interest rate.
-
+return 0;
 }
