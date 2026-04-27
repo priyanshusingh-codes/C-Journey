@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-void readCharacters() {
+void readCharacters() 
+{
     char ch;
     int count = 0;
 
