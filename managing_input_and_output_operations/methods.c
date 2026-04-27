@@ -46,7 +46,7 @@ stdio.h (Standard Input Output Header File)
 Required for using:
 printf()
 scanf()
-Instructs compiler to include standard I/O function
+=> Instructs compiler to include standard I/O function
 
 7. Working of #include
 #include <stdio.h>
