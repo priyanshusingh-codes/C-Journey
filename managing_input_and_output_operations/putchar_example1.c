@@ -1,7 +1,8 @@
 #include <stdio.h>   // For getchar(), putchar(), printf()
 #include <ctype.h>   // For isalpha(), isdigit()
 
-int main() {
+int main() 
+{
     char ch;                // Variable to store each character
     int alphabets = 0;      // Counter for alphabets
     int digits = 0;         // Counter for digits
