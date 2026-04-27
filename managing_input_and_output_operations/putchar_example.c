@@ -1,7 +1,8 @@
 #include <stdio.h>   // For getchar() and putchar()
 #include <ctype.h>   // For islower(), isupper(), toupper(), tolower()
 
-int main() {
+int main() 
+{
     char ch;   // Declare a variable to store a single character
 
     // Ask user to enter a character
