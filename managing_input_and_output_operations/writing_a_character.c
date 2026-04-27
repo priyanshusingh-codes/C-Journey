@@ -15,8 +15,7 @@ Example
 char ch = 'Y';
 putchar(ch);
 
-Output:
-Y
+Output:  Y
 
 
 Special Case (New Line)
