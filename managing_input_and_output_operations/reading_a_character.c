@@ -90,6 +90,7 @@ Character test functions need:
 
 
 /*
+List of functions :
 
 | Function       | Meaning             | Returns TRUE if…                |
 | -------------- | ------------------- | ------------------------------- |
