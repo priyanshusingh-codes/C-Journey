@@ -1,3 +1,4 @@
+//Various formatting options for reading integers are experimented in the program
 #include<stdio.h>
 int main()
 {
