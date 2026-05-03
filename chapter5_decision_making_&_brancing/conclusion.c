@@ -215,7 +215,7 @@ Conditional Operator Tip
 
 Good:
 max = (a>b) ? a : b;
-Bad: giant nested ternary chaos 😏
+Bad: giant nested ternary chaos 
 goto Tip
 
 
