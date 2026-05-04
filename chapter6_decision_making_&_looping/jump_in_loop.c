@@ -119,3 +119,24 @@ int main() {
 }
 
 //Program stops completely
+
+
+
+/*
+
+What is <stdlib.h>?
+It is a header file in C
+It stands for Standard Library
+
+Why we use it?
+It gives access to built-in functions like:
+
+exit() → end program
+malloc() → memory allocation
+free() → free memory
+rand() → random numbers
+abs() → absolute value
+
+
+
+*/
