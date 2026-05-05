@@ -92,3 +92,41 @@ No automatic bounds checking
 
 
 */
+
+
+
+
+
+
+
+/*
+
+
+Character Arrays (Strings)
+==========================
+
+In C:
+Strings are just arrays of characters
+
+Example
+char name[10];
+Can store 10 characters
+Used to store words like "HELLO"
+
+
+
+6. How Strings Are Stored
+
+Example:
+"WELL DONE"
+Stored as:
+W  E  L  L     D  O  N  E  \0
+Each character = one element
+\0 = null character (end marker)
+
+
+7. Important Concept 
+Null Character (\0)
+Automatically added by compiler
+Marks end of string
+*/
