@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int arr[2][3];  // 2 rows, 3 columns
 
     // Input
