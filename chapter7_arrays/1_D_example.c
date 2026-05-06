@@ -13,7 +13,8 @@ int main()
 
     // Output elements
     printf("Array elements are:\n");
-    for(int i = 0; i < 5; i++) {
+    for(int i = 0; i < 5; i++) 
+    {
         printf("%d ", arr[i]);
     }
 
