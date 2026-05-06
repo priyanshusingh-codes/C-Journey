@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int a[2][2], b[2][2], result[2][2];
 
     printf("Enter elements of matrix A:\n");
