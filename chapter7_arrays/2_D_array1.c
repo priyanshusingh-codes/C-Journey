@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int arr[2][3], sum = 0;
 
     printf("Enter 6 elements:\n");
