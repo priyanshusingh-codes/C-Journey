@@ -105,7 +105,7 @@ Correct:
 x[i][j]
 
 
-11. Character Array Rule ⚠️
+11. Character Array Rule 
 Always leave space for:
 '\0'  (null character)
 
