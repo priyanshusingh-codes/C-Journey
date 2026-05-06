@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int arr[5];
 
     printf("Enter 5 numbers:\n");
