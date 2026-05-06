@@ -1,7 +1,8 @@
 //Input and Print Elements of 1D Array
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int arr[5];   // declare array of size 5
 
     // Input elements
